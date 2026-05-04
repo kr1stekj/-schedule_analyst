@@ -1,5 +1,11 @@
-
-node_modules
-dist
-*.local
+venv/
+__pycache__/
+*.pyc
+.env
+app/.env
+frontend/node_modules/
+frontend/dist/
 .DS_Store
+.idea/
+.vscode/
+*.log
