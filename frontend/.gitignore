@@ -1,0 +1,5 @@
+# Артефакты фронта и локальные файлы
+node_modules
+dist
+*.local
+.DS_Store
