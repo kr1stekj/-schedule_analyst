@@ -4,7 +4,6 @@
 
 ## Основное
 
-- `README.md` — описание проекта, стек и быстрый запуск.
 - `docker-compose.yml` — PostgreSQL и pgAdmin для локальной разработки.
 - `requirements.txt` — Python-зависимости backend.
 - `Отчет_по_лабораторным_работам.md` / `.docx` — итоговый отчёт по проекту.
